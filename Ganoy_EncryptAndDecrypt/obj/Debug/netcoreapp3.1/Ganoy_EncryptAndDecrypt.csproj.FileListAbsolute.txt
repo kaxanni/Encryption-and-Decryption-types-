@@ -1,0 +1,13 @@
+D:\Ganoy_EncryptAndDecrypt\Ganoy_EncryptAndDecrypt\bin\Debug\netcoreapp3.1\Ganoy_EncryptAndDecrypt.exe
+D:\Ganoy_EncryptAndDecrypt\Ganoy_EncryptAndDecrypt\bin\Debug\netcoreapp3.1\Ganoy_EncryptAndDecrypt.deps.json
+D:\Ganoy_EncryptAndDecrypt\Ganoy_EncryptAndDecrypt\bin\Debug\netcoreapp3.1\Ganoy_EncryptAndDecrypt.runtimeconfig.json
+D:\Ganoy_EncryptAndDecrypt\Ganoy_EncryptAndDecrypt\bin\Debug\netcoreapp3.1\Ganoy_EncryptAndDecrypt.runtimeconfig.dev.json
+D:\Ganoy_EncryptAndDecrypt\Ganoy_EncryptAndDecrypt\bin\Debug\netcoreapp3.1\Ganoy_EncryptAndDecrypt.dll
+D:\Ganoy_EncryptAndDecrypt\Ganoy_EncryptAndDecrypt\bin\Debug\netcoreapp3.1\Ganoy_EncryptAndDecrypt.pdb
+D:\Ganoy_EncryptAndDecrypt\Ganoy_EncryptAndDecrypt\obj\Debug\netcoreapp3.1\Ganoy_EncryptAndDecrypt.csprojAssemblyReference.cache
+D:\Ganoy_EncryptAndDecrypt\Ganoy_EncryptAndDecrypt\obj\Debug\netcoreapp3.1\Ganoy_EncryptAndDecrypt.csproj.CoreCompileInputs.cache
+D:\Ganoy_EncryptAndDecrypt\Ganoy_EncryptAndDecrypt\obj\Debug\netcoreapp3.1\Ganoy_EncryptAndDecrypt.AssemblyInfoInputs.cache
+D:\Ganoy_EncryptAndDecrypt\Ganoy_EncryptAndDecrypt\obj\Debug\netcoreapp3.1\Ganoy_EncryptAndDecrypt.AssemblyInfo.cs
+D:\Ganoy_EncryptAndDecrypt\Ganoy_EncryptAndDecrypt\obj\Debug\netcoreapp3.1\Ganoy_EncryptAndDecrypt.dll
+D:\Ganoy_EncryptAndDecrypt\Ganoy_EncryptAndDecrypt\obj\Debug\netcoreapp3.1\Ganoy_EncryptAndDecrypt.pdb
+D:\Ganoy_EncryptAndDecrypt\Ganoy_EncryptAndDecrypt\obj\Debug\netcoreapp3.1\Ganoy_EncryptAndDecrypt.genruntimeconfig.cache
